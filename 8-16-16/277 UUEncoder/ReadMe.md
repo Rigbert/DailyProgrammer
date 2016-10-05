@@ -1,10 +1,10 @@
-###UUEncoder
+#UUEncoder
 
 Reddit: [Link](https://www.reddit.com/r/dailyprogrammer/comments/4xy6i1/20160816_challenge_279_easy_uuencoding/)
 
 Wikipedia: [Link](https://en.wikipedia.org/wiki/Uuencoding)
 
-#UUEncoder: 
+##UUEncoder: 
 Just a simple UUEncoding project. Turns text you put into the standard input and returns that text but encoded.
 Doesn't work with files yet because I haven't gotten around to bothering with file names. Will probably come back by the end of the week- written on 10/5/16
 
