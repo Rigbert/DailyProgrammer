@@ -2,8 +2,6 @@
 
 Reddit: [Link](https://www.reddit.com/r/dailyprogrammer/comments/55nior/20161003_challenge_286_easy_reverse_factorial/)
 
-##Reverse Factorial
-
 Simple reverse factorial program. Outputs the number your input is the factorial of. 
 
 Started 10/5/2016 at ~ 11:15PM and finished at 10/5/2016 11:45PM
