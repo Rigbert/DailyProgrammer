@@ -212,3 +212,9 @@ _Pvt_Extensions/
 ModelManifest.xml
 #Visual Studio files that I personally don't want in here
 *.vc.opendb
+*.sdf
+*.sln
+.vs
+*.vcxproj
+*.vcxproj.filters
+
